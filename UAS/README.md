@@ -41,7 +41,7 @@ contoh body request (bobot) :
 		}
 
 post saw
-<img src='img/post_wp.png' alt='recommendations saw'/>
+<img src='img/post_saw.png' alt='recommendations saw'/>
 
-get wp
-<img src='img/get_wp.png' alt='recommendations wp'/>
+post wp
+<img src='img/post_wp.png' alt='recommendations wp'/>
